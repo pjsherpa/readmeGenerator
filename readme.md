@@ -1,4 +1,4 @@
-# readmeGenerator
+# Readme-Generator
 
 [![License](https://img.shields.io/badge/license-mit-blue.svg)
 ](https://opensource.org/licenses/mit)
@@ -6,18 +6,23 @@
 Table of Content:
 
 1. [Project Descrition](#Project-Description)
-2. [Usage](#Usage)
-3. [Contribution](#Contribution)
-4. [Tests](#Tests)
-5. [Deployment](#Deployment)
-6. [Contact](#Contact)
-7. [Steps Made](#Steps-Made)
-8. [Questions](#Questions)
-9. [Video Walkthrough](#Video-Walkthrough)
+2. [Installation](#Installation)
+3. [Usage](#Usage)
+4. [Contribution](#Contribution)
+5. [Tests](#Tests)
+6. [Deployment](#Deployment)
+7. [Contact](#Contact)
+8. [Steps Made](#Steps-Made)
+9. [Questions](#Questions)
+10. [Video Walkthrough](#Video-Walkthrough)
 
 ### Project Description:
 
 This Project was built to have a better understanding of how node can create a readme generator. This allows all the readme file to be consistent moving forward. This gave us an insight that we could use file system method to create folders and files as required.
+
+### Installation:
+
+npm i
 
 ### Usage:
 
