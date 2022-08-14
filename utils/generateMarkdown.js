@@ -52,7 +52,7 @@ ${data.Test}
 
 [https://github.com/${data.Github}/readmeGenerator]
 
-###Contact:
+### Contact:
 If any further questions were required relating this readme Generator. You can contact me via email [${
     data.email
   }].
