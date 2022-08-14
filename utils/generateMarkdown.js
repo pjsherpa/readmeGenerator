@@ -84,7 +84,8 @@ Step 4: Once the information was received then a code using fs module was used t
 
 ### Video Walkthrough:
 Please find videolink attached of walkthrough demonstrating the functionality of this application:
-https://drive.google.com/file/d/1dkkFz6rbfg69WlcwDJeDNASG1DSOXgRk/view
+
+[Walkthrough Video by Pj](https://drive.google.com/file/d/1dkkFz6rbfg69WlcwDJeDNASG1DSOXgRk/view)
 `;
 }
 
