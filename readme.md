@@ -1,4 +1,4 @@
-# readmeGenerator
+# Readme-Generator
 
 [![License](https://img.shields.io/badge/license-mit-blue.svg)
 ](https://opensource.org/licenses/mit)
@@ -10,11 +10,10 @@ Table of Content:
 3. [Usage](#Usage)
 4. [Contribution](#Contribution)
 5. [Tests](#Tests)
-6. [Deployment](#Deployment)
-7. [Contact](#Contact)
-8. [Steps Made](#Steps-Made)
-9. [Questions](#Questions)
-10. [Video Walkthrough](#Video-Walkthrough)
+6. [Contact](#Contact)
+7. [Steps Made](#Steps-Made)
+8. [Questions](#Questions)
+9. [Video Walkthrough](#Video-Walkthrough)
 
 ### Project Description:
 
@@ -36,13 +35,16 @@ Pj
 
 npm test
 
-### Deployment:
+### Questions:
 
-[https://github.com/pjsherpa/readmeGenerator]
+Github Profile:
+[pjsherpa](https://github.com/pjsherpa)
 
-### Contact:
+If any further questions were required relating this Readme Generator.
+Please via email phinjock@gmail.com.
 
-If any further questions were required relating this readme Generator. You can contact me via email [phinjock@gmail.com].
+Deployment:
+(https://github.com/pjsherpa/readmeGenerator)
 
 ### Steps made:
 
@@ -54,7 +56,7 @@ Step 3: Generated the questionaires to fill in for the readme.
 
 Step 4: Once the information was received then a code using fs module was used to created and write in the readme.md
 
-### Questions:
+The following questions were prompted:
 
 1. What is the name of this project?
 2. Why did you build this project?

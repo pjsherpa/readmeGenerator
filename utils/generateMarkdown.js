@@ -27,11 +27,10 @@ function generateMarkdown(data) {
   3. [Usage](#Usage)
   4. [Contribution](#Contribution)
   5. [Tests](#Tests)
-  6. [Deployment](#Deployment)
-  7. [Contact](#Contact)
-  8. [Steps Made](#Steps-Made)
-  9. [Questions](#Questions)
-  10. [Video Walkthrough](#Video-Walkthrough)
+  6. [Contact](#Contact)
+  7. [Steps Made](#Steps-Made)
+  8. [Questions](#Questions)
+  9. [Video Walkthrough](#Video-Walkthrough)
 
 ### Project Description:
 
@@ -52,14 +51,17 @@ ${data.Contributing}
 
 ${data.Test}
 
-### Deployment:
+### Questions:
 
-[https://github.com/${data.Github}/readmeGenerator]
+Github Profile:
+[${data.Github}](https://github.com/${data.Github})
 
-### Contact:
-If any further questions were required relating this readme Generator. You can contact me via email [${
-    data.email
-  }].
+
+If any further questions were required relating this Readme Generator. 
+Please via email ${data.email}.
+
+Deployment:
+(https://github.com/${data.Github}/readmeGenerator)
 
 ### Steps made:
 
@@ -71,7 +73,8 @@ Step 3: Generated the questionaires to fill in for the readme.
 
 Step 4: Once the information was received then a code using fs module was used to created and write in the readme.md
 
-### Questions:
+The following questions were prompted:
+
 1. What is the name of this project?
 2. Why did you build this project?
 3. What was your Installation?
