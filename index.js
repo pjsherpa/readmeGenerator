@@ -60,8 +60,11 @@ const questions = [
 
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
-    if (err) throw err;
-    console.log("Success! A readme file has now been created.");
+    if (err) {
+      throw err;
+    } else {
+      console.log("Success! A readme file has now been created.");
+    }
   });
 }
 
