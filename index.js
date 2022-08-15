@@ -36,7 +36,9 @@ const questions = [
   {
     name: "Contributing",
     type: "input",
-    message: "Who was the contributer?",
+    message: "Contribution Guideline?",
+    default:
+      "The main purpose of this repository is to create a readme file quick and consistent. I would be grateful to the community for contributing more questions and improvement for this readme-generator as per desired.",
   },
   {
     name: "email",

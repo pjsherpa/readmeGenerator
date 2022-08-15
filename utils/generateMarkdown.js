@@ -25,7 +25,7 @@ function generateMarkdown(data) {
   1. [Project Description](#Project-Description)
   2. [Installation](#Installation)
   3. [Usage](#Usage)
-  4. [Contribution](#Contribution)
+  4. [Contribution Guideline](#Contribution-Guideline)
   5. [Tests](#Tests)
   6. [Questions](#Questions)
   7. [Steps Made](#Steps-Made)
@@ -42,7 +42,7 @@ ${data.Installation}
 
 ${data.Usage}
 
-### Contribution:
+### Contribution Guideline:
 
 ${data.Contributing}
 
@@ -79,9 +79,9 @@ The following questions were prompted:
 3. What was your Installation?
 4. Usage:
 5. Which License did you use?
-6. Who was the contributer?
+6. Contribution Guideline?
 7. What is your email address?
-7. Please provide githubURL?
+8. Please provide github Username?
 9. Please provide how you will run your test?
 
 ### Video Walkthrough:
