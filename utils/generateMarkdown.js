@@ -57,20 +57,20 @@ Github Profile:
 
 
 If any further questions were required relating this Readme Generator. 
-Please via email ${data.email}.
+Please contact me via email: ${data.email}.
 
 Deployment:
 (https://github.com/${data.Github}/readmeGenerator)
 
 ### Steps made:
 
-Step 1: Also imported generateMarkdown on index.js locally.
+Step 1: Imported generateMarkdown on index.js locally.
 
 Step 2: To access the following we used the require function.
 
 Step 3: Generated the questionaires to fill in for the readme.
 
-Step 4: Once the information was received then a code using fs module was used to created and write in the readme.md
+Step 4: Once the information was received then a code using fs module was used to create and write in the readme.md
 
 The following questions were prompted:
 
