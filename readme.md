@@ -5,15 +5,14 @@
 
 Table of Content:
 
-1. [Project Descrition](#Project-Description)
+1. [Project Description](#Project-Description)
 2. [Installation](#Installation)
 3. [Usage](#Usage)
 4. [Contribution](#Contribution)
 5. [Tests](#Tests)
-6. [Contact](#Contact)
+6. [Questions](#Questions)
 7. [Steps Made](#Steps-Made)
-8. [Questions](#Questions)
-9. [Video Walkthrough](#Video-Walkthrough)
+8. [Video Walkthrough](#Video-Walkthrough)
 
 ### Project Description:
 
